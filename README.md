@@ -60,12 +60,7 @@ Configurazione XFCE4 su Arch Linux per hardware datato e monitor VGA, basata sul
 - 🐧 **Linux internals** — come funziona il sistema sotto il cofano
 
 - 🔧 **Shell scripting** — automazione e customizzazione del workflow
-
-
-## 📊 Statistiche GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=giorossi-sudo&show_icons=true&theme=tokyonight&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giorossi-sudo&layout=compact&theme=tokyonight&hide_border=true) 
-
+ 
 
 ## 📫 Contatti
 
